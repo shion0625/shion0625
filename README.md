@@ -1,6 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shion0625&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shion0625&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+
 <!--
 **shion0625/shion0625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/shion0625/posts.svg)](https://qiita.com/shion0625)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/shion0625/contributions.svg)](https://qiita.com/shion0625)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/shion0625/followers.svg)](https://qiita.com/shion0625)
