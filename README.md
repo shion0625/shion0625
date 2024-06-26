@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=shion0625&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shion0625&theme=vue)
+
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/shion0625/posts.svg)](https://qiita.com/shion0625)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/shion0625/contributions.svg)](https://qiita.com/shion0625)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/shion0625/followers.svg)](https://qiita.com/shion0625)
